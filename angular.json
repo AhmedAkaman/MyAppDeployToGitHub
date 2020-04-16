@@ -120,5 +120,5 @@
         }
       }
     }},
-  "defaultProject": "routingApp"
+  "defaultProject": "dist/"
 }
